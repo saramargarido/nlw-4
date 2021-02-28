@@ -13,9 +13,9 @@ https://moveit-beta-eosin.vercel.app/
 
 Desenvolvido na Next Level Week #04, promovido pela RocketSeat.
 
-![](images/001.png)
-![](images/002.png)
-![](images/003.png)
+![](/moveit/images/Inicio-move-it1.png)
+![](/moveit/images/Inicio-move-it.png)
+![](/moveit/images/move-it-3.png)
 
 Clonar o repositório
 
